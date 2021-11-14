@@ -24,4 +24,3 @@ print(combined)
 
 
 
-input("Press Enter to continue")

@@ -16,5 +16,3 @@ print(f"You have entered {userInput}")
 
 
 
-
-input("Press ENTER to continue.")

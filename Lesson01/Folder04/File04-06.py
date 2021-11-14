@@ -19,5 +19,3 @@ combined = f"Your name is {name}, and your age is {age}, and your height is {hei
 print(combined)
 
 
-
-input("Press Enter to Continue.")

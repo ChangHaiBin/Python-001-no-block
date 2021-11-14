@@ -13,4 +13,3 @@ print("....................................")
 
 
 
-input("Press Enter to continue")

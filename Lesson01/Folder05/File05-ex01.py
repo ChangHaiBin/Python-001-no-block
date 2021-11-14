@@ -24,5 +24,3 @@ print(f"After multiplying by 2, your number becomes {y}")
 
 
 
-
-input("Press ENTER to continue.")

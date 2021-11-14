@@ -24,4 +24,3 @@ print(f"You have entered {x}")
 
 
 
-input("Press ENTER to continue.")

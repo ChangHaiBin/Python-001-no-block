@@ -25,5 +25,3 @@ print(combined)            ## DO NOT MODIFY THIS!!!
 # Expected result: "I have five dollars remaining in my pocket."
 
 
-
-input("Press Enter to continue")

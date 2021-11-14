@@ -25,5 +25,3 @@ print(combined)            ## DO NOT MODIFY THIS!!!
 # Expected result: "You need 80 points to get an A in the exam."
 
 
-
-input("Press Enter to continue")

@@ -14,5 +14,3 @@ print("Experiment with Python interactive")
 # "Hello" * 3
 
 
-
-input("Press ENTER to continue.")

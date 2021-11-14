@@ -23,5 +23,3 @@ combined = ".................................."
 print(combined)
 
 
-
-input("Press Enter to Continue.")

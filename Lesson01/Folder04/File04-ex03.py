@@ -20,5 +20,3 @@ print(combined)
 # Expected result: "I want to buy a cup of tea and a bowl of noodle."
 
 
-
-input("Press Enter to continue")
